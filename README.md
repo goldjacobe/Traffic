@@ -1,0 +1,1 @@
+This is a traffic simulation that can be used to compare performance of self-driving cars with manually driven vehicles by taking into account smart intersections that don't need to rely on a traffic light timing.
