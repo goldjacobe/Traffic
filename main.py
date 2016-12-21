@@ -14,7 +14,7 @@ num_lanes = 3  # vary between 1,2,3
 max_cars_allowed = 2
 self_driving = True  # vary between True and False
 array_size = (grid_size - 1) * block_length + 1
-max_total_cars = 30  # vary between 10 - 30 in 5 car increments
+max_total_cars = 30  # vary between 10 - 30 in 10 car increments
 
 
 @unique
